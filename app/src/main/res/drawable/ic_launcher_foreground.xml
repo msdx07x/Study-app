@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer accent glow ring -->
+    <path
+        android:strokeColor="#2563EB"
+        android:strokeWidth="2.5"
+        android:pathData="M 54,26 A 28,28 0 1,1 53.9,26" />
+    
+    <!-- Open Book base -->
+    <path
+        android:fillColor="#1E293B"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="1.5"
+        android:pathData="M 33,68 C 40,64 48,64 54,67 C 60,64 68,64 75,68 L 75,44 C 68,40 60,40 54,43 C 48,40 40,40 33,44 Z" />
+    
+    <!-- Spine line -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2"
+        android:pathData="M 54,43 L 54,67" />
+        
+    <!-- Play Triangle symbol in electric blue / white -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M 50,48 L 62,55 L 50,62 Z" />
+</vector>

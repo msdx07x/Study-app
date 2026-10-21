@@ -1,0 +1,6 @@
+{
+  "name": "Study OS",
+  "description": "An offline-friendly study management app for organizing YouTube playlists into structured courses with progress tracking, embedded playback, lesson notes, and study reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
